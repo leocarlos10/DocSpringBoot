@@ -1,0 +1,9 @@
+.git
+.github
+.vscode
+.mvn/wrapper/maven-wrapper.jar
+target
+docker-compose*.yml
+compose*.yaml
+*.log
+README*
